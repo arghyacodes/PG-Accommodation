@@ -1,6 +1,6 @@
 # PG-Accommodation
 
-http://localhost:8076/swagger-ui/index.html#/
+http://localhost:5917/docs
 
 ## MYSQL
 create database PayingGuest;
